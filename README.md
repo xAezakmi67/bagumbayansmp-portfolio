@@ -7,9 +7,9 @@ peaceful, and also very friendly for all platforms.
 
 BossBar was configured with the help of TAB plugin.
 
-Scoreboard was configuired using SimpleScore.
+Scoreboard was configured using SimpleScore.
 
 I customized rank prefixes, but the pack came from Nautical Ranks.
 
-I made the custom AFK Tag and made it visible in your nametag as tablist as well.
+I made the custom AFK Tag and made it visible in your nametag and tablist as well.
 
