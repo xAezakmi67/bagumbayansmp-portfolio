@@ -1,8 +1,8 @@
 # bagumbayansmp-portfolio
 BagumbayanSMP's history and updates through its journey.
 
-Started as a Bedrock Server, due to player's request, made it compatible crossplay thanks to GeyserMC.
-Lot of configuring were done this includes the Auto-Login for Premium and Bedrock Geyser + Floodgate. I really tried to make the server be accessible, 
+Started as a Bedrock Server, due to players' request, I made it compatible crossplay thanks to GeyserMC.
+Lot of configuring were done this includes the Auto-Login for Premium and Bedrock (Geyser + Floodgate). I really tried to make the server be accessible, 
 peaceful, and also very friendly for all platforms.
 
 BossBar was configured with the help of TAB plugin.
